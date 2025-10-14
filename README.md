@@ -38,7 +38,8 @@ Welcome to my GitHub! I'm a passionate developer and lifelong learner focused on
 ---
 
 ## 📊 GitHub Stats
-![Venkat Vatshal's GitHub stats](https://github-readme-stats.vercel.app/api?Vatshal-Venkat=your-github-Vatshal-Venkat&show_icons=true&theme=radical)
+![Venkat Vatshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vatshal-Venkat&show_icons=true&theme=radical)
+
 
 ---
 
