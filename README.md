@@ -40,14 +40,6 @@ Welcome to my GitHub! I'm a passionate developer and lifelong learner focused on
 ## 📊 GitHub Stats
 ![Venkat Vatshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vatshal-Venkat&show_icons=true&theme=radical)
 
-
----
-
-## 💡 Fun Facts
-- I love exploring **multi-modal AI**, from text to video.
-- Always experimenting with **interactive tools**, dashboards, and user-friendly apps.
-- Huge fan of structured **project organization** and automation.
-
 ---
 
 ## 📫 Connect with me
