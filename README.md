@@ -46,7 +46,4 @@ Welcome to my GitHub! I'm a passionate developer and lifelong learner focused on
 - LinkedIn: [Venkat Vatshal](https://www.linkedin.com/in/venkat-vatshal-9129b1212/)
 - Email: venkatvatshal@gmail.com
 - Portfolio: https://venkatvatshal.wixstudio.com/my-site-4/home?rc=test-site
-
 ---
-
-#
