@@ -16,7 +16,7 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
 
 ## 🌟 Who I Am
 
-🌱 **AI Explorer** | 💡 **Web3 & Automation** | 🐧 **Open-Source Advocate** | 🤖 **Intelligent Systems Innovator**
+🌟 AI Enthusiast | 💻 Full-Stack Developer | 🧠 Machine Learning & Multi-Modal AI | 🚀 Innovator in Intelligent Systems
 
 ---
 
