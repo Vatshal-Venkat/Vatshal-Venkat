@@ -4,7 +4,6 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
 
 ---
 
-## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkat-vatshal-9129b1212)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
