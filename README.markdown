@@ -4,7 +4,7 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
 
 ---
 
-## 📫 Connect with Me
+## ![Connect](https://img.shields.io/badge/📫-Connect-blueviolet?style=for-the-badge&logo=github)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkat-vatshal-9129b1212)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
@@ -15,13 +15,13 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
 
 ---
 
-## 🌟 Who I Am
+## ![About](https://img.shields.io/badge/🌟-Who_I_Am-ff7f50?style=for-the-badge)
 
 🌱 **AI Explorer** | 💡 **Web3 & Automation** | 🐧 **Open-Source Advocate** | 🤖 **Intelligent Systems Innovator**
 
 ---
 
-## 🛠️ Tech Stack
+## ![Tech Stack](https://img.shields.io/badge/🛠️-Tech_Stack-4caf50?style=for-the-badge)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=1" height="40"/>
@@ -50,7 +50,7 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
 
 ---
 
-## 🔥 GitHub Stats
+## ![GitHub Stats](https://img.shields.io/badge/🔥-GitHub_Stats-ff69b4?style=for-the-badge)
 
 ![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatshal-Venkat&show_icons=true&count_private=true&hide_title=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatshal-Venkat&layout=compact&hide=html,css&theme=radical)
