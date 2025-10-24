@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Venkat Vatshal K
 
-
 I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artificial Intelligence. I build AI-driven tools, web platforms, and automation systems with **impact and usability**.
 
 ---
@@ -14,7 +13,6 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
 
 ![Visitor Count](https://profile-counter.glitch.me/Vatshal-Venkat/count.svg)
 
-
 ---
 
 ## 🌟 Who I Am
@@ -25,7 +23,7 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=1" height="40"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&animation=1" height="40"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=1" height="40"/>
@@ -49,8 +47,6 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
   <img src="https://img.shields.io/badge/Swing-FF5722?style=for-the-badge&animation=1" height="40"/>
   <img src="https://img.shields.io/badge/AWT-FF9800?style=for-the-badge&animation=1" height="40"/>
 </p>
-
-
 
 ---
 
