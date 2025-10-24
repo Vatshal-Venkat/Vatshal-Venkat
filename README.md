@@ -1,49 +1,50 @@
-# Hi there 👋, I'm Venkat Vatshal
+👋 Hello, I'm Venkat Vatshal
+I'm a passionate AI enthusiast and full-stack developer crafting innovative solutions with Python, Java, and web technologies. From building multi-modal AI systems to dynamic web platforms, I love turning ideas into reality. Currently exploring AI-driven applications, DevOps, and interactive UIs to solve real-world problems.
 
-Welcome to my GitHub! I'm a passionate developer and lifelong learner focused on **Python, Java, DevOps, and cutting-edge AI/ML projects**. I enjoy building practical applications, experimenting with multi-modal AI, and creating interactive systems.
+🛠️ Tech Stack
 
----
 
-## 🔧 Tech Stack
+AI/ML: Transformers, Sentence Transformers, CLIP, Wav2Vec2, RAG Systems, PyTorch
+Frameworks & Tools: Streamlit, FastAPI, Jupyter, Pandas, Wix Velo, Docker, Git
+Web & DevOps: HTML, CSS, Wix Studio, CI/CD, Vite
+Databases: MySQL, MongoDB, Wix CMS
+Other: Excel/XLSX Automation, PDF Processing, 3D Rendering, Interactive Dashboards
 
-- **Languages:** Python, Java, JavaScript, SQL
-- **AI/ML:** Transformers, CLIP, Wav2Vec2, Multi-Modal RAG Agents, Sentence Transformers
-- **Frameworks & Tools:** Streamlit, FastAPI, VS Code, Jupyter, Pandas, PyTorch
-- **Web & DevOps:** HTML, CSS, Wix Studio, CI/CD, Docker, Git
-- **Databases:** MySQL, MongoDB, Wix CMS
-- **Other:** Excel/XLSX automation, PDF processing, Interactive dashboards
 
----
+🌟 Featured Projects
+Multi-Modal RAG Chatbot
 
-## 🚀 Projects & Highlights
+Description: A versatile AI agent processing PDFs, images, audio, and video with real-time query handling and memory.
+Features: Gemini API integration, FAISS for vector search, Streamlit UI with file uploads.
+Tech: Python, PyTorch, Sentence Transformers, CLIP, Streamlit.
 
-### **Autonomous Multi-Modal RAG Agent**
-- Built a multi-source, multi-modal knowledge agent supporting PDF, XLSX, CSV, images, audio, and video.
-- Features: RAG + memory, Gemini integration, interactive Streamlit interface.
-- Tech: Python, PyTorch, Sentence Transformers, CLIP, Wav2Vec2, Streamlit.
+Online Examination Portal
 
-### **Online Examination Portal (Wix Studio)**
-- Dynamic exam platform with leaderboard, result analysis, anti-cheating mechanisms.
-- CMS-backed with real-time metrics and interactive UI.
-- Tech: Wix Studio, JavaScript, Wix Data, Repeater & Lightbox integration.
+Description: A secure, CMS-driven platform for exams with leaderboards and anti-cheating features.
+Features: Real-time analytics, dynamic UI with repeaters and lightboxes.
+Tech: Wix Studio, JavaScript, Wix Data, Velo.
 
-### **Bank Management System (Java)**
-- Desktop-based banking application with full CRUD, date picker integration, and transaction management.
-- Tech: Java, Swing, JDateChooser.
+Crime Predictor System
 
-### **Interactive 3D Model Generator**
-- Converts 2D photos into interactive 3D models embeddable in web pages.
-- Tech: HTML, JavaScript, 3D rendering libraries.
+Description: ML-based system to predict crime types and case closure probabilities using FIR data.
+Features: Logistic regression, time-based feature engineering, Streamlit UI with file uploader.
+Tech: Python, Scikit-learn, Pandas, Streamlit.
 
----
+Bank Management System
 
-## 📊 GitHub Stats
-![Venkat Vatshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vatshal-Venkat&show_icons=true&theme=radical)
+Description: Desktop app for managing banking transactions with a user-friendly interface.
+Features: Full CRUD operations, date picker integration.
+Tech: Java, Swing, JDateChooser.
 
----
 
-## 📫 Connect with me
-- LinkedIn: [Venkat Vatshal](https://www.linkedin.com/in/venkat-vatshal-9129b1212/)
-- Email: venkatvatshal@gmail.com
-- Portfolio: https://venkatvatshal.wixstudio.com/my-site-4/home?rc=test-site
----
+📈 GitHub Stats & Activity
+
+
+📫 Let's Connect!
+
+LinkedIn: Venkat Vatshal
+Email: venkatvatshal@gmail.com
+Portfolio: venkatvatshal.wixstudio.com
+
+
+🌱 Currently Learning: Advanced LLM integrations, cloud deployment with AWS, and 3D web rendering.🎯 Goals: Contribute to open-source AI projects and build scalable, user-centric applications.
