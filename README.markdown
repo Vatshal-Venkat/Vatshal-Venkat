@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Venkat Vatshal K
 
-![Header](https://raw.githubusercontent.com/Vatshal-Venkat/Vatshal-Venkat/main/assets/header-bg.png)
+![Header](https://github.com/Vatshal-Venkat/Vatshal-Venkat/blob/main/assets/header-bg.png)
+
 
 I'm an **AI enthusiast** and **full-stack developer** pursuing a B.Tech in Artificial Intelligence at Vidya Jyothi Institute of Technology (CGPA: 8.90). I’m passionate about building innovative solutions with **Python**, **Java**, and **web technologies**, focusing on AI-driven tools, dynamic web platforms, and robust systems.
 
@@ -13,7 +14,7 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing a B.Tech in Artif
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/yourid)
 
-**Visitors**: ![Visitor Count](https://profile-counter.glitch.me/{Vatshal-Venkat}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Vatshal-Venkat/count.svg)
 
 ---
 
