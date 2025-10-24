@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Venkat Vatshal K
 
-![Header](https://github.com/Vatshal-Venkat/Vatshal-Venkat/blob/main/assets/header-bg.png)
 
 I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artificial Intelligence. I build AI-driven tools, web platforms, and automation systems with **impact and usability**.
 
@@ -13,7 +12,8 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/yourid)
 
-**Visitors:** ![Visitor Count](https://profile-counter.glitch.me/Vatshal-Venkat/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Vatshal-Venkat/count.svg)
+
 
 ---
 
@@ -50,24 +50,7 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
   <img src="https://img.shields.io/badge/AWT-FF9800?style=for-the-badge&animation=1" height="40"/>
 </p>
 
----
 
-## 🌱 Projects
-
-### **[TEASER - RAG Chatbot](https://github.com/Vatshal-Venkat/teaser-rag)**  
-AI chatbot using RAG for intelligent responses. **Tech:** Python, LangChain, FAISS, Streamlit
-
-### **[Online Examination Portal](https://github.com/Vatshal-Venkat/exam-portal)**  
-Dynamic quizzes with instant scoring and leaderboards. **Tech:** Wix Studio, JavaScript, Velo
-
-### **[Agent V](https://github.com/Vatshal-Venkat/agent-v)**  
-Automated AI agent leveraging n8n workflows. **Tech:** n8n, JavaScript
-
-### **[Cross-Modal Similarity System](https://github.com/Vatshal-Venkat/cross-modal)**  
-Analyzes text, image, audio, and video with AI. **Tech:** Python, Transformers, Deep Learning
-
-### **[Bank Management System](https://github.com/Vatshal-Venkat/bank-system)**  
-Java desktop app for secure banking operations. **Tech:** Java, Swing, AWT, MySQL
 
 ---
 
