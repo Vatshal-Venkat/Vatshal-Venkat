@@ -40,6 +40,7 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
   <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=transformers&logoColor=white&animation=1" height="40"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&animation=1" height="40"/>
   <img src="https://img.shields.io/badge/n8n-00BCD4?style=for-the-badge&animation=1" height="40"/>
+  <img src="https://img.shields.io/badge/MAKE-00BCA9?style=for-the-badge&animation=1" height="40"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&animation=1" height="40"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&animation=1" height="40"/>
   <img src="https://img.shields.io/badge/WixStudio-1DBF73?style=for-the-badge&logo=wix&logoColor=white&animation=1" height="40"/>
