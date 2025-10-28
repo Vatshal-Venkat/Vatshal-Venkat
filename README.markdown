@@ -46,7 +46,7 @@ AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  In
   <img src="https://img.shields.io/badge/WixStudio-1DBF73?style=for-the-badge&logo=wix&logoColor=white&animation=1" height="40"/>
   <img src="https://img.shields.io/badge/Swing-FF5722?style=for-the-badge&animation=1" height="40"/>
   <img src="https://img.shields.io/badge/AWT-FF9800?style=for-the-badge&animation=1" height="40"/>
-  <img src="https://img.shields.io/badge/Google Cloud-mcA651?style=for-the-badge&animation=1" height="40"/>
+  <img src="https://img.shields.io/badge/Google Cloud-EKFC59?style=for-the-badge&animation=1" height="40"/>
 </p>
 
 ---
