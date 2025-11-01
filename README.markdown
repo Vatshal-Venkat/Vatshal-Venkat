@@ -60,6 +60,8 @@ AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  In
 
   <!-- Cloud -->
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="40" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" height="40" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" height="40" alt="Unreal Engine"/>
 </p>
 
 ---
