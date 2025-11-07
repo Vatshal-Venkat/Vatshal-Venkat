@@ -7,8 +7,7 @@ I'm an **AI enthusiast** and **Full-Stack Developer** pursuing B.Tech in Artific
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkat-vatshal-9129b1212)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vatshal_Venkat)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/yourid)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/Vatshal-Venkat/count.svg)
 
