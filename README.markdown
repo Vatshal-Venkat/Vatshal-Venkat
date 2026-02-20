@@ -24,47 +24,49 @@ AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  In
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="40" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="CSS"/>
 
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="Docker"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="40" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="40" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logo=langchain&logoColor=white" height="40" alt="LangChain"/>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=6C63FF" height="35"/>
+  <img src="https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=openjdk&logoColor=F59E0B" height="35"/>
+  <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=2563EB" height="35"/>
+  <img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="35"/>
+  <img src="https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26" height="35"/>
+  <img src="https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6" height="35"/>
+  <img src="https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=2563EB" height="35"/>
 
-  <!-- AI & ML -->
-  <img src="https://img.shields.io/badge/FAISS-9C27B0?style=for-the-badge&logo=faiss&logoColor=white" height="40" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" height="40" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/Transformers-D206C2?style=for-the-badge&logo=transformers&logoColor=white" height="40" alt="Transformers"/>
+  <!-- AI & LLM Stack -->
+  <img src="https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge&logo=chainlink&logoColor=6C63FF" height="35"/>
+  <img src="https://img.shields.io/badge/FAISS-1E1E1E?style=for-the-badge&logo=meta&logoColor=059669" height="35"/>
+  <img src="https://img.shields.io/badge/Chroma-1E1E1E?style=for-the-badge&logo=databricks&logoColor=6C63FF" height="35"/>
+  <img src="https://img.shields.io/badge/Transformers-1E1E1E?style=for-the-badge&logo=huggingface&logoColor=F59E0B" height="35"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-1E1E1E?style=for-the-badge&logo=openai&logoColor=6C63FF" height="35"/>
 
-  <!-- Backend & Automation -->
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="40" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/n8n-C0362C?style=for-the-badge&logo=n8n&logoColor=white" height="40" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Make-FF6F61?style=for-the-badge&logo=make&logoColor=white" height="40" alt="Make"/>
+  <!-- Frontend & Backend -->
+  <img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=2563EB" height="35"/>
+  <img src="https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=nextdotjs&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/FastAPI-1E1E1E?style=for-the-badge&logo=fastapi&logoColor=059669" height="35"/>
+  <img src="https://img.shields.io/badge/REST_API-1E1E1E?style=for-the-badge&logo=api&logoColor=2563EB" height="35"/>
+  <img src="https://img.shields.io/badge/Styled_Components-1E1E1E?style=for-the-badge&logo=styledcomponents&logoColor=DB7093" height="35"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-1E1E1E?style=for-the-badge&logo=framer&logoColor=0055FF" height="35"/>
 
-  <!-- Data & Design -->
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Wix_Studio-00ADEF?style=for-the-badge&logo=wix&logoColor=white" height="40" alt="Wix Studio"/>
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=4479A1" height="35"/>
+  <img src="https://img.shields.io/badge/Firebase-1E1E1E?style=for-the-badge&logo=firebase&logoColor=FFCA28" height="35"/>
+  <img src="https://img.shields.io/badge/AWS-1E1E1E?style=for-the-badge&logo=amazonaws&logoColor=F59E0B" height="35"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-1E1E1E?style=for-the-badge&logo=googlecloud&logoColor=2563EB" height="35"/>
+  <img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2563EB" height="35"/>
+  <img src="https://img.shields.io/badge/Vercel-1E1E1E?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Render-1E1E1E?style=for-the-badge&logo=render&logoColor=46E3B7" height="35"/>
 
-  <!-- Java GUI (Legacy but clean) -->
-  <img src="https://img.shields.io/badge/Swing-1E88E5?style=for-the-badge&logo=java&logoColor=white" height="40" alt="Swing"/>
-  <img src="https://img.shields.io/badge/AWT-43A047?style=for-the-badge&logo=java&logoColor=white" height="40" alt="AWT"/>
+  <!-- Tools & Automation -->
+  <img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032" height="35"/>
+  <img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Wix_Studio-1E1E1E?style=for-the-badge&logo=wix&logoColor=00ADEF" height="35"/>
+  <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E" height="35"/>
+  <img src="https://img.shields.io/badge/n8n-1E1E1E?style=for-the-badge&logo=n8n&logoColor=C0362C" height="35"/>
+  <img src="https://img.shields.io/badge/Make-1E1E1E?style=for-the-badge&logo=make&logoColor=FF6F61" height="35"/>
 
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="40" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" height="40" alt="Blender"/>
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" height="40" alt="Unreal Engine"/>
 </p>
-
 ---
 
 ## 🔥 GitHub Stats
