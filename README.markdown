@@ -5,11 +5,20 @@ I'm an **AI enthusiast** and **Full-Stack Developer** pursuing B.Tech in Artific
 ---
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkat-vatshal-9129b1212)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vatshal_Venkat)
+<p align="left">
 
+<a href="https://linkedin.com/in/venkat-vatshal-9129b1212">
+  <img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="35"/>
+</a>
 
-![Visitor Count](https://profile-counter.glitch.me/Vatshal-Venkat/count.svg)
+<a href="https://twitter.com/Vatshal_Venkat">
+  <img src="https://img.shields.io/badge/X-1E1E1E?style=for-the-badge&logo=x&logoColor=white" height="35"/>
+</a>
+
+<img src="https://img.shields.io/badge/Profile_Views-1E1E1E?style=for-the-badge&logo=eye&logoColor=6C63FF"/>
+<img src="https://profile-counter.glitch.me/Vatshal-Venkat/count.svg"/>
+
+</p>
 
 ---
 
