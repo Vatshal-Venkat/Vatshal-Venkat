@@ -67,7 +67,7 @@ AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  In
   <img src="https://img.shields.io/badge/Make-1E1E1E?style=for-the-badge&logo=make&logoColor=FF6F61" height="35"/>
 
 </p>
----
+
 
 ## 🔥 GitHub Stats
 
