@@ -24,13 +24,13 @@ I'm an **AI enthusiast** and **Full-Stack Developer** pursuing B.Tech in Artific
 
 
 
-## 🌟 Who I Am
+## Who I Am
 
 AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  Innovator in Intelligent Systems
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
 
