@@ -4,7 +4,6 @@ I'm an **AI enthusiast** and **Full-Stack Developer** pursuing B.Tech in Artific
 
 ---
 
-
 <p align="left">
 
 <a href="https://linkedin.com/in/venkat-vatshal-9129b1212">
@@ -15,8 +14,7 @@ I'm an **AI enthusiast** and **Full-Stack Developer** pursuing B.Tech in Artific
   <img src="https://img.shields.io/badge/X-1E1E1E?style=for-the-badge&logo=x&logoColor=white" height="35"/>
 </a>
 
-<img src="https://img.shields.io/badge/Profile_Views-1E1E1E?style=for-the-badge&logo=eye&logoColor=6C63FF"/>
-<img src="https://profile-counter.glitch.me/Vatshal-Venkat/count.svg"/>
+<img src="https://komarev.com/ghpvc/?username=Vatshal-Venkat&style=for-the-badge&color=6C63FF"/>
 
 </p>
 
