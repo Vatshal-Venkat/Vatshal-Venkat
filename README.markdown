@@ -14,7 +14,7 @@ I'm an **AI enthusiast** and **Full-Stack Developer** pursuing B.Tech in Artific
 
 </p>
 
----
+
 
 
 
@@ -22,7 +22,7 @@ I'm an **AI enthusiast** and **Full-Stack Developer** pursuing B.Tech in Artific
 
 AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  Innovator in Intelligent Systems
 
----
+
 
 ## Tech Stack
 
