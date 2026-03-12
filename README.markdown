@@ -6,12 +6,8 @@ I'm an **AI enthusiast** and **Full-Stack Developer** pursuing B.Tech in Artific
 
 <p align="left">
 
-<a href="https://linkedin.com/in/venkat-vatshal-9129b1212">
+<a href="https://linkedin.com/in/venkat-vatshal">
   <img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="35"/>
-</a>
-
-<a href="https://twitter.com/Vatshal_Venkat">
-  <img src="https://img.shields.io/badge/X-1E1E1E?style=for-the-badge&logo=x&logoColor=white" height="35"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Vatshal-Venkat&style=for-the-badge&color=6C63FF"/>
