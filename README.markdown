@@ -47,6 +47,7 @@ AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  In
   <img src="https://img.shields.io/badge/Chroma-1E1E1E?style=for-the-badge&logo=databricks&logoColor=6C63FF" height="35"/>
   <img src="https://img.shields.io/badge/Transformers-1E1E1E?style=for-the-badge&logo=huggingface&logoColor=F59E0B" height="35"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-1E1E1E?style=for-the-badge&logo=openai&logoColor=6C63FF" height="35"/>
+  <img src="https://img.shields.io/badge/LangGraph-1E1E1E?style=for-the-badge&logo=graphql&logoColor=E10098" height="35"/>
 
   <!-- Frontend & Backend -->
   <img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=2563EB" height="35"/>
