@@ -73,7 +73,7 @@ AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  In
 </p>
 
 
-## 🔥 GitHub Stats
+##  GitHub Stats
 
 ![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatshal-Venkat&show_icons=true&count_private=true&hide_title=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatshal-Venkat&layout=compact&hide=html,css&theme=radical)
