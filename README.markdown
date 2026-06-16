@@ -91,9 +91,4 @@ AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  In
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vatshal-Venkat&bg_color=000000&color=00E5FF&line=FF005C&point=FFD700&area=true&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vatshal-Venkat&theme=radical&no-frame=true&row=1&column=7" />
-</p>
 
