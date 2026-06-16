@@ -15,9 +15,6 @@ I'm an **AI enthusiast** and **Full-Stack Developer** pursuing B.Tech in Artific
 </p>
 
 
-
-
-
 ## Who I Am
 
 AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  Innovator in Intelligent Systems
@@ -73,7 +70,30 @@ AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  In
 </p>
 
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
-![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatshal-Venkat&show_icons=true&count_private=true&hide_title=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatshal-Venkat&layout=compact&hide=html,css&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vatshal-Venkat&show_icons=true&count_private=true&hide_title=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatshal-Venkat&layout=compact&hide=html,css&theme=radical"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vatshal-Venkat&theme=neon-dark&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vatshal-Venkat&bg_color=000000&color=00E5FF&line=FF005C&point=FFD700&area=true&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vatshal-Venkat&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
