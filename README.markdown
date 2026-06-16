@@ -82,7 +82,7 @@ AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  In
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vatshal-Venkat&theme=neon-white&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vatshal-Venkat&theme=neon-dark&hide_border=true" />
 </p>
 
 ## 📈 Contribution Graph
