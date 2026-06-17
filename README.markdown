@@ -3,7 +3,6 @@
 I'm an **AI enthusiast** and **Full-Stack Developer** pursuing B.Tech in Artificial Intelligence. I build AI-driven tools, web platforms, and automation systems with **impact and usability**.
 
 ---
-
 <p align="left">
 
 <a href="https://linkedin.com/in/venkat-vatshal">
