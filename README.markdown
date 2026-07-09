@@ -22,7 +22,7 @@ AI Enthusiast |  Full-Stack Developer |  Machine Learning & Multi-Modal AI |  In
 
 ## Tech Stack
 
-<p align="left">
+<p align="center">
 
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=6C63FF" height="35"/>
