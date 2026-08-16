@@ -1,7 +1,6 @@
 # Hello, **I'm Venkat Vatshal** 
 
 I'm an **AI enthusiast** and **Full-Stack Developer** pursuing B.Tech in Artificial Intelligence. I build AI-driven tools, web platforms, and automation systems with **impact and usability**.
-
 ---
 <p align="center">
 
