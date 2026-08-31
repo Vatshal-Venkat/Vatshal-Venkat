@@ -4,7 +4,6 @@ I'm an **AI enthusiast** and **Full-Stack Developer** pursuing B.Tech in Artific
 ---
 <p align="center">
 
-
 <a href="https://linkedin.com/in/venkat-vatshal">
   <img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="35"/>
 </a>
